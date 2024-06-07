@@ -1,4 +1,5 @@
 ## Hi there 👋
+I am Mayur Soni , an Enthusiastic engineering Student with a passion for development, adept at exploring diverse technologies and their practical applications. Committed to continual learning and eager to acquire new skills in technology for optimal utilization.
 
 <!--
 **MayurSony/MayurSony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
