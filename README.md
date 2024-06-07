@@ -44,7 +44,7 @@
 <p>Reach me at: <a href="mailto:mayursoniofficial1@gmail.com">mayursoniofficial1@gmail.com</a></p>
 
 <h2>⚡ Fun fact</h2>
-<p>In my free time, I explore the technology world!</p>
+<p>In my free time, I explore the world of technology!</p>
 
 <h2>Connect with me:</h2>
 <p>
@@ -52,6 +52,7 @@
   <a href="https://www.facebook.com/profile.php?id=100009305833487" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"></a>
   <a href="https://www.instagram.com/mayursoni24_/?igsh=mwt4yznjzw96c2i3aw%3d%3d" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40"></a>
 </p>
+
 
 <h2>Languages and Tools:</h2>
 <p>
