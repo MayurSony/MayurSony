@@ -7,6 +7,14 @@ I am Mayur Soni , an Enthusiastic engineering Student with a passion for develop
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
+## Work
+
+- Enhancing my skills in machine learning and deep learning.
+- Working with Power BI, Excel, SQL, and exploring the field of data science.
+- Enhancing my skills in MERN full-stack development and actively working on related projects.
+
+
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
