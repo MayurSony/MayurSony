@@ -41,7 +41,7 @@
 </ul>
 
 <h2>📫 How to reach me</h2>
-<p>Reach me at: <a href="mailto:mayursoniofficial1@gmail.com">mayursoniofficial1@gmail.com</a></p>
+<p>Reach me at: <a href="mailto:mayursoniwork1@gmail.com">mayursoniwork1@gmail.com</a></p>
 
 <h2>⚡ Fun fact</h2>
 <p>In my free time, I explore the world of technology!</p>
