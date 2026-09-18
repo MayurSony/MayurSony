@@ -21,23 +21,22 @@
 
 <h2>🔧 Technology and Tools...</h2>
 <ul>
-  <li>C</li>
+  <li>SQL</li>
   <li>Python</li>
-  <li>Java</li>
+  <li>RAG</li>
+  <li>LLM</li>
+  <li>Langchain</li>
+  <li>Gen AI</li>
+  <li>PowerBi</li>
+  <li>Machine Learning</li>
+  <li>Deep Learning</li>
+  <li>Data Engineering</li>
   <li>HTML</li>
   <li>CSS</li>
   <li>JavaScript</li>
   <li>React.js</li>
   <li>Node.js</li>
-  <li>Express.js</li>
-  <li>Mongo-DB</li>
-  <li>Bootstrap</li>
-  <li>MaterialUi</li>
-  <li>PowerBi</li>
-  <li>Tableau</li>
-  <li>SQL</li>
-  <li>Machine Learning</li>
-  <li>Deep Learning</li>
+  <li>Mongo-DB</li>  
 </ul>
 
 <h2>📫 How to reach me</h2>
